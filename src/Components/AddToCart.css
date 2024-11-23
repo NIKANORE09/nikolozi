@@ -1,0 +1,65 @@
+.addtocart {
+  
+
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.addtocart button {
+  width: 272px;
+  height: 56px;
+  background-color: #ff7e1b;
+  border-radius: 10px;
+  border-style: none;
+  cursor: pointer;
+  display: inline-block;
+  color: white;
+  font-weight: 1000;
+}
+
+.plsmns {
+  width: 199px;
+  height: 80px;
+  background-color: #f3f3f5;
+
+  border-radius: 10px;
+
+  padding: 2px;
+  gap: 35px;
+
+  font-weight: 1000;
+}
+
+.right {
+  width: 445px;
+  height: 455px;
+}
+
+.right p {
+  color: #ff7e1b;
+  font-size: 14px;
+}
+
+.right h2 {
+  color: #1d2026;
+  font-size: 44px;
+  font-weight: 700;
+}
+
+.right span {
+  color: #69707d;
+  margin-top: 32px;
+}
+
+.right h5 {
+  text-decoration: line-through;
+}
+
+.ATC {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: 10px;
+  border-style: none;
+}
